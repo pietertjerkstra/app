@@ -5,5 +5,5 @@ pr("/home/rstudio/app-main/plumber.R") %>%
 
 
 #run in terminal:
-cd app-main
+#cd app-main
 #R CMD BATCH start_app.R
